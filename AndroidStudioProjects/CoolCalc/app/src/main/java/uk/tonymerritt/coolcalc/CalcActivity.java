@@ -223,7 +223,7 @@ public class CalcActivity extends Activity {
 
 
     void numberPressed(int number) {
-        
+
         runningNumber += String.valueOf(number);
         resultsView.setText(runningNumber);
 
