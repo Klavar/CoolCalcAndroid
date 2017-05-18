@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1026954550430",
+    "firebase_url": "https://klavar-chat.firebaseio.com",
+    "project_id": "klavar-chat",
+    "storage_bucket": "klavar-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026954550430:android:5e31bdcc04d2060e",
+        "android_client_info": {
+          "package_name": "uk.tonymerritt.klavarchatandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026954550430-2bc0aktj67dskjegtl0a3k5bn67ftb9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9P_UsJp7tbRrAR5rS3Sq2tycLKbgOKRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
